@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!--Modded CSC-->
 <SamsungMobileFeature>
   <Version>ED00005</Version>
   <Country>NEW ZEALAND</Country>
@@ -91,7 +92,7 @@
     <CscFeature_Vision_ConfigTextExchangerate>OANXX</CscFeature_Vision_ConfigTextExchangerate>
     <CscFeature_Vision_ConfigWine>NLLXX</CscFeature_Vision_ConfigWine>
     <CscFeature_NFC_FollowTechnologyRouteToDefRoute>TRUE</CscFeature_NFC_FollowTechnologyRouteToDefRoute>
-    <CscFeature_NFC_DefStatus>ON</CscFeature_NFC_DefStatus>
+    <CscFeature_NFC_DefStatus>OFF</CscFeature_NFC_DefStatus>
     <CscFeature_NFC_StatusBarIconType>DEFAULT</CscFeature_NFC_StatusBarIconType>
     <CscFeature_Contact_EnableExtraCallServiceMenu>TRUE</CscFeature_Contact_EnableExtraCallServiceMenu>
     <CscFeature_Video_BlockNotiSoundDuringStreaming>TRUE</CscFeature_Video_BlockNotiSoundDuringStreaming>
@@ -133,5 +134,7 @@
     <CscFeature_Wifi_SupportBlockSkipForSetupWizard>TRUE</CscFeature_Wifi_SupportBlockSkipForSetupWizard>
     <CscFeature_GPS_ConfigLppBitmask>7</CscFeature_GPS_ConfigLppBitmask>
     <CscFeature_GPS_SupportEnableAgps>TRUE</CscFeature_GPS_SupportEnableAgps>
+    <CscFeature_Web_EnableAutoBookmarkSetBySim>FALSE</CscFeature_Web_EnableAutoBookmarkSetBySim>
+    <CscFeature_VoiceCall_ReplaceGsmCharToAndroidFormat>TRUE</CscFeature_VoiceCall_ReplaceGsmCharToAndroidFormat>
   </FeatureSet>
 </SamsungMobileFeature>
